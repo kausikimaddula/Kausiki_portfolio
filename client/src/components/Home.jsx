@@ -27,7 +27,7 @@ export default function Portfolio() {
         </p>
         <br />
         <p className="text-md text-[#475569]">
-          Web Developer @ Coding Blocks KARE | Technical Member @ Vishaka KARE
+          Technical Member @ Coding Blocks KARE
         </p>
         <br />
         <p className="text-md text-[#475569]">
